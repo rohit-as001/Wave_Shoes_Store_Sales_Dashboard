@@ -75,10 +75,10 @@ The goal of this project is to support data-driven decision-making in areas such
 
 7) Profitability
 
-  - With a total cost of ₹71.23M against revenue of ₹113.33M, the overall gross profit is approximately ₹42.10M (~37% margin). Uttar     
-    Pradesh generates the highest absolute profit of ₹5.21M, while even the 5th-ranked state — Madhya Pradesh — maintains a healthy 
-    ₹2.73M profit.
-
+  - With a total cost of ₹71.23M against revenue of ₹113.33M, the overall gross profit is approximately ₹42.10M (~37% margin).
+    Uttar Pradesh generates the highest absolute profit of ₹5.21M, while even the 5th-ranked state — Madhya Pradesh — maintains
+    a healthy ₹2.73M profit.    
+    
 
 
 ## Business Recommendations
