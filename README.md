@@ -68,12 +68,16 @@ The goal of this project is to support data-driven decision-making in areas such
 
 6) Top Performing States
 
-- Uttar Pradesh leads all states with ₹14.16M in sales and 1,002 transactions, followed closely by West Bengal (₹13.87M) and Maharashtra (₹10.17M). These three states together account for a significant share of overall revenue, making them the core geographic markets.
+  - Uttar Pradesh leads all states with ₹14.16M in sales and 1,002 transactions, followed closely by West Bengal (₹13.87M) and   
+    Maharashtra (₹10.17M). These three states together account for a significant share of overall revenue, making them the core 
+    geographic markets.
 
 
-6) Profitability
+7) Profitability
 
-- With a total cost of ₹71.23M against revenue of ₹113.33M, the overall gross profit is approximately ₹42.10M (~37% margin). Uttar Pradesh generates the highest absolute profit of ₹5.21M, while even the 5th-ranked state — Madhya Pradesh — maintains a healthy ₹2.73M profit.
+  - With a total cost of ₹71.23M against revenue of ₹113.33M, the overall gross profit is approximately ₹42.10M (~37% margin). Uttar     
+    Pradesh generates the highest absolute profit of ₹5.21M, while even the 5th-ranked state — Madhya Pradesh — maintains a healthy 
+    ₹2.73M profit.
 
 
 
